@@ -5,7 +5,7 @@
 /* Подключение Open Sans 400/500, Silkscreen 400 */
 @font-face {
     font-family: 'Open Sans', sans-serif;
-    src: url('/fonts/OpenSansCondensed-Regular.woff2') format('woff2');
+    src: url('OpenSansCondensed-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: auto;
@@ -13,7 +13,7 @@
 
 @font-face {
     font-family: 'Open Sans', sans-serif;
-    src: url('/fonts/OpenSansCondensed-Medium.woff2') format('woff2');
+    src: url('OpenSansCondensed-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: auto;
@@ -21,7 +21,7 @@
 
 @font-face {
     font-family: 'Silkscreen';
-    src: url('/fonts/Silkscreen-Regular.woff2') format('woff2');
+    src: url('Silkscreen-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: auto;
